@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an Hogwards Legacy: Hogwarp Framework [Pillars](https://pillars-framework.github.io/docs/)
 
-- 🌱 I’m currently learning TS, HTML and SCSS **VueJs**
+- 🌱 I’m currently learning Unity and Nuxt
 
 - 💬 Ask me about **C#**
 
